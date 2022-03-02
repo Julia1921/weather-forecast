@@ -1,0 +1,17 @@
+.icon{
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    width: 192px;
+    height: 160px;
+
+    .cloud{
+        position: absolute;
+        z-index: 1;
+        top: 50%;
+        left: 50%;
+        width: 59px;
+        height: 59px;
+        margin: -29px;
+    }
+}
